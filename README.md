@@ -39,8 +39,8 @@
 ![screenshot](https://i.imgur.com/0uOiSTF.png)
 ![screenshot](https://i.imgur.com/gElsMDU.png)
 
-Good day! Here is my solution for devChallenges.io's 404 Not Found Challenge. You can view my demo through the 'Demo' link at the top. I started this project a while back but I had to drop it to focus on other things and I'm glad I got to finally finish this challenge. During the period I dropped this, I spent my time on other projects and improved a lot since then so I was able to apply and improve my newly learnt skills here. 
-I used SCSS as the preprocessor for CSS and made use of mixins, placeholders, variables and nesting capabilities. To make the page responsive, I used Flexbox for the layout and the clamp() function to resize fonts based on the screen's size.
+Good day! Here is my solution for devChallenges.io's 404 Not Found Challenge. You can view my demo through the 'Demo' link at the top. I started this project a while back but I had to drop it to focus on other things and I'm glad I got to finally finish this challenge. During the period I dropped this, I spent my time on other projects and improved a lot since then so I was able to apply and improve my newly learnt skills here.  
+I used SCSS as the preprocessor for CSS and made use of mixins, placeholders, variables and nesting capabilities. To make the page responsive, I used Flexbox for the layout and the clamp() function to resize fonts based on the screen's size.  
 I took my time developing this challenging and all in all probably took me about 3 days to complete it and I'm pretty satisifed.
 
 ### Built With
